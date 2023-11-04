@@ -1,4 +1,4 @@
-# FLUSTER IS COOL
+# FLUSTER IS PATCHED
 https://novaksoftware.netlify.app/
 # Fluster Installer
 This project is made by Revamp.
